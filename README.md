@@ -1,6 +1,6 @@
 # IBM-Project-16895-1659624574
 Smart Lender - Applicant Credibility Prediction for Loan Approval
-#Team ID: PNT2022TMID27297
+# Team ID: PNT2022TMID27297
 Industry Mentor: NIDHI
 Faculty Mentor: SWATI SAXENA
 
